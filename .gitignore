@@ -1,4 +1,2 @@
 /node_modules
 /.idea
-src/config/dev.env
-src/config/test.env
